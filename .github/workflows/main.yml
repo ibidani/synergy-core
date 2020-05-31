@@ -23,7 +23,7 @@ jobs:
       uses: jurplel/install-qt-action@v2.6.2
       with:
         # Directory to install Qt
-        dir: c:\Qt # optional
+        dir: c:/Qt # optional
         # Version of Qt to install
         version: 5.12.5 # optional, default is 5.12.8
         # Architecture for Windows/Android
